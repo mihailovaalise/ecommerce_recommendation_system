@@ -6,7 +6,7 @@
 
 ## Состав проекта
 
-- `Fashion_RecSys_Kaggle.ipynb` — ноутбук с предобработкой данных, обучением моделей и расчетом признаков.  
+- `fashion_recsys_kaggle.py` — ноутбук с предобработкой данных, обучением моделей и расчетом признаков.  
 - `app.py` — веб-приложение Streamlit для интерактивного просмотра рекомендаций.  
 - `text_cat_features.pkl` и другие файлы моделей большие и не загружаются в GitHub, но они создаются автоматически кодом из ноутбука.
 - Датасет: [Fashion Product Images Dataset](https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset)
