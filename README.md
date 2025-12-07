@@ -17,7 +17,7 @@
 ```bash
 pip install streamlit pandas numpy scikit-learn faiss-cpu gensim pillow
 ```
-2. Скачайте данные с Kaggle и положите их в папку проекта. В ноутбуке Fashion_RecSys_Kaggle.ipynb показано, как их загружать и предобрабатывать.
+2. Скачайте данные с Kaggle и положите их в папку проекта. В скрипте fashion_recsys_kaggle.py показано, как их загружать и предобрабатывать.
 3. Запустите веб-приложение:
 ```bash
 streamlit run app.py
